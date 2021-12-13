@@ -1,35 +1,35 @@
-h1{
-    font-size: 50px;
-    text-align: center;
-    color: #f5f3f3; 
-    font-family: system-ui
-    }
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css"/>
+<title> Catherine FENU - Portfolio </title>
+<meta charset="UTF-8">
+</head>
 
-    h2{
-        font-size: 30px;
-        text-align: center;
-        color: #f5f3f3; 
-        font-family: "Gill Sans", sans-serif
-        }
-    
-        h3{
-            font-size: 25px;
-            text-align: left;
-            color: #f5f3f3; 
-            font-family: "Gill Sans", sans-serif
-            }
-        
-    p{
-    font-size: 20px;
-    text-align: left;
-    font-family: "Gill Sans", sans-serif;
-    color: #7F7F7F
-    }
-    
-    a {
-        color: #558ED5;
-      }
-   
-    body {
-    background-color: #1F497D;
-    }
+<body>
+<h1>Catherine FENU - My 1st portfolio</h1>
+
+<h2>DATA ANALYST</h2>
+
+
+<p> I am looking for an internship to start in march 2022.</p>
+<p> Rigorous, a sense of responsibility, highly adaptable and proficient in English, my Data Analysis skills and in biological research will be a serious asset to your project.</p> 
+
+<h3>My resume</h3>
+<p><a href = 'https://github.com/Cat-Bellevue/Cat-Bellevue.github.io/blob/main/FENU_Catherine_Resume_EN.pdf'><img src ='resume_thumbnail.png' alt ='My resume'></a></p>
+
+<h3>My project</h3>
+
+<p> Client project - further details soon</p>
+<p> IMDb project - further details soon</p> 
+<p> Hackathon project - further details soon</p> 
+<p> <a href= "https://github.com/Cat-Bellevue/Model_company/blob/main/Model_company"> SQL project</a></p> 
+
+<h3>Links</h3>
+
+<p> <a href= "https://www.linkedin.com/in/catherine-jacquot-fenu/"><img src ='https://d5l07j6ktywkt.cloudfront.net/sdpreview/0/591df28f/1377504659-521b0d93d57f5/preview.png' alt ='My LinkedIn page'></a> </p> 
+<p> <a href= "https://github.com/Cat-Bellevue?tab=repositories"><img src ='https://d5l07j6ktywkt.cloudfront.net/sdpreview/0/1475510787-F9J2kL/preview.png' alt = 'My Github'> </a> </p> 
+<p> <a href= "https://www.wildcodeschool.com/fr-FR/formations/formation-data-analyst/remote-francais"><img src= "https://res.cloudinary.com/wildcodeschool/image/upload/c_fill,h_50/v1/static/irjoy97aq0eol8bf6959" alt ='Wild Code School website'> </a>  </p>
+</body> 
+</html>
+
