@@ -1,0 +1,35 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: #f5f3f3; 
+    font-family: system-ui
+    }
+
+    h2{
+        font-size: 30px;
+        text-align: center;
+        color: #f5f3f3; 
+        font-family: "Gill Sans", sans-serif
+        }
+    
+        h3{
+            font-size: 25px;
+            text-align: left;
+            color: #f5f3f3; 
+            font-family: "Gill Sans", sans-serif
+            }
+        
+    p{
+    font-size: 20px;
+    text-align: left;
+    font-family: "Gill Sans", sans-serif;
+    color: #7F7F7F
+    }
+    
+    a {
+        color: #558ED5;
+      }
+   
+    body {
+    background-color: #1F497D;
+    }
